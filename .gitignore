@@ -1,0 +1,4 @@
+
+# Ignorar las siguientes carpetas
+.idea
+target
